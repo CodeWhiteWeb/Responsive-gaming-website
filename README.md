@@ -1,7 +1,7 @@
 
 # Responsive Website template
  ![Banner](https://user-images.githubusercontent.com/79645854/122390892-189b4000-cf90-11eb-8dcb-ebcf292582e9.png)
-
+<img src="https://user-images.githubusercontent.com/79645854/122390892-189b4000-cf90-11eb-8dcb-ebcf292582e9.png" width="140">
 Free Template to use
 ---
 ## Support
